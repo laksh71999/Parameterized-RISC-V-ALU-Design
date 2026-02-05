@@ -53,9 +53,6 @@ riscv_alu/
 │── sim/
 │   └── run.sh
 │
-│── docs/
-│   └── alu_block_diagram.png
-│
 └── README.md
 ```
 
